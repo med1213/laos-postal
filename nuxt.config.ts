@@ -20,6 +20,7 @@ export default defineNuxtConfig({
           href: "https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap",
         },
       ],
+      title: "Laos Postal Code",
     },
   },
   vite: {
